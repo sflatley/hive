@@ -48,6 +48,8 @@ import org.apache.hadoop.hive.service.HiveServerException;
 
 /**
  * HivePreparedStatement.
+ * 
+ * Hi there.  Just testing git.
  *
  */
 public class HivePreparedStatement implements PreparedStatement, HivePreparedStatementInterface {
